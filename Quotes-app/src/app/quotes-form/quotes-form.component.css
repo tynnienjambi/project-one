@@ -1,6 +1,6 @@
 .form-control{
   color: white;
-  background: transcrecent;
+  background: transparent;
   font-weight: 570;
 }
 label{
@@ -10,7 +10,7 @@ label{
 hr{
   width: 50%;
   height: 2px;
-  background-color: black;
+  background-color: blue;
 }
 .heading{
   color: white;
@@ -18,10 +18,10 @@ hr{
   padding-top: 2%;
 }
 .container-fluid{
-  background-color: galaxy;
+  background-color: rgba;
   border-radius: 4px;
   padding-bottom: 5%;
-  box-shadow: 2px 2px 3px 2px grey;
+  box-shadow: 2px 2px 3px 2px royal blue;
   font-family: 'Architects Daughter', cursive;
   margin-bottom: 5%;
 }
