@@ -9,7 +9,7 @@
 Its an application where by people can post their quotes and be read by others and also readers can vote whether they like it or not and also can add theirs. 
 
 ## Live Page 
-https://tynnienjambi.github.io/project-one/
+https://quote-app.netlify.com/
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
