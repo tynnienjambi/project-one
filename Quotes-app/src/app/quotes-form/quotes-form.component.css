@@ -1,6 +1,6 @@
 .form-control{
   color: white;
-  background: transparent;
+  background: black;
   font-weight: 570;
 }
 label{
@@ -10,7 +10,7 @@ label{
 hr{
   width: 50%;
   height: 2px;
-  background-color: blue;
+  background-color: black;
 }
 .heading{
   color: white;
@@ -21,7 +21,7 @@ hr{
   background-color: rgba;
   border-radius: 4px;
   padding-bottom: 5%;
-  box-shadow: 2px 2px 3px 2px royal blue;
+  box-shadow: 2px 2px 3px 2px black;
   font-family: 'Architects Daughter', cursive;
   margin-bottom: 5%;
 }
