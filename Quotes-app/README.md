@@ -2,11 +2,11 @@
 
 ## Author
 
-[Owiti-Charles](https://github.com/Owiti-Charles)
+[Tinisha Kamau](https://github.com/tynnienjambi)
 
 ## Description
 
-This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote. 
+Its an application where by people can post their quotes and be read by others and also readers can vote whether they like it or not and also can add theirs. 
 
 ## Live Page 
 https://Owiti-charles.github.io/Quotes-app/ 
